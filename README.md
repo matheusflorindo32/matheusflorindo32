@@ -7,7 +7,7 @@
 <p align="center">
   <em>Chief Executive Officer & Founder — Núcleo Tático Group</em><br>
   <em>Researcher — Universidade Federal do Espírito Santo (UFES)</em><br>
-  <em>Public Safety Officer — Polícia Militar do ES</em>
+  <em>Military Police Officer — Corporal, PMES (since 2013)</em>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Multidisciplinary leader bridging **public safety operations**, **academic resea
 |---|---|
 | **Role** | CEO & Founder, Núcleo Tático Group |
 | **Research** | Graduate Researcher, PROEPT/UFES |
-| **Service** | Sergeant, Polícia Militar do Espírito Santo (since 2013) |
+| **Service** | Corporal, Polícia Militar do Espírito Santo (since 2013) |
 | **Education** | BSc Physical Education · Environmental Management · Geography |
 | **ORCID** | 0009-0006-3848-0662 |
 
@@ -73,25 +73,24 @@ Multidisciplinary leader bridging **public safety operations**, **academic resea
 ## 🚀 TECHNOLOGY STACK
 
 ### Front-End
-![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=00d4ff)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=00d4ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=00d4ff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a1a?style=for-the-badge&logo=tailwind-css&logoColor=00d4ff)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=00d4ff)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=00d4ff)
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 
 ### Back-End & Data
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=00d4ff)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=00d4ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=for-the-badge&logo=supabase&logoColor=00d4ff)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 
 ### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=00d4ff)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=00d4ff)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visual%20studio%20code&logoColor=00d4ff)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-1a1a1a?style=for-the-badge&logo=openclaw&logoColor=00d4ff)
-![Lovable](https://img.shields.io/badge/Lovable-1a1a1a?style=for-the-badge&logo=lovable&logoColor=00d4ff)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/OpenClaw-1a1a2e?style=flat-square&logo=openclaw&logoColor=white" alt="OpenClaw">
 
 ---
 
@@ -148,14 +147,11 @@ Multidisciplinary leader bridging **public safety operations**, **academic resea
 
 ---
 
-## 📈 GITHUB METRICS
+## 📈 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusflorindo32&show_icons=true&theme=dark&title_color=C9A227&text_color=ffffff&icon_color=00d4ff&bg_color=0d1117&border_color=C9A227" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusflorindo32&layout=compact&theme=dark&title_color=C9A227&text_color=ffffff&bg_color=0d1117&border_color=C9A227" alt="Top Languages">
+  <a href="https://github.com/matheusflorindo32"><img src="https://img.shields.io/github/followers/matheusflorindo32?label=Followers&style=social" alt="Followers"></a>
+  <a href="https://github.com/matheusflorindo32"><img src="https://img.shields.io/github/stars/matheusflorindo32?label=Stars&style=social" alt="Stars"></a>
 </p>
 
 ---
