@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610" role="img" aria-labelledby="title desc">
+  <title id="title">Ecossistema de produtos digitais publicados</title>
+  <desc id="desc">Cinco produtos digitais apresentados em cartões tridimensionais claros e premium.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#e8edf5"/>
+    </linearGradient>
+    <linearGradient id="dark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="1" stop-color="#2b394f"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9f7115"/>
+      <stop offset="0.52" stop-color="#e8cb78"/>
+      <stop offset="1" stop-color="#b58729"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#059669"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dc2626"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.14"/></filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="608" rx="30" fill="url(#bg)" stroke="#cbd5e1" stroke-width="2"/>
+  <circle cx="1090" cy="100" r="150" fill="#d4af37" opacity="0.07"/>
+  <circle cx="80" cy="530" r="175" fill="#2563eb" opacity="0.045"/>
+
+  <text x="58" y="70" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="850">ECOSSISTEMA DIGITAL PUBLICADO</text>
+  <text x="60" y="103" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Produtos, experiências web e plataformas desenvolvidas para diferentes contextos reais.</text>
+  <rect x="58" y="122" width="210" height="5" rx="2.5" fill="url(#gold)"/>
+
+  <!-- Featured card -->
+  <g transform="translate(58 158)" filter="url(#shadow)">
+    <rect x="10" y="12" width="510" height="190" rx="24" fill="#94a3b8" opacity="0.18"/>
+    <rect width="510" height="190" rx="24" fill="url(#dark)"/>
+    <circle cx="444" cy="42" r="50" fill="#d4af37" opacity="0.12" filter="url(#glow)"/>
+    <rect x="27" y="27" width="115" height="27" rx="13.5" fill="#d4af37" opacity="0.18" stroke="#e8cb78"/>
+    <text x="84" y="46" text-anchor="middle" fill="#f8e4a6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="1">APP PUBLICADO</text>
+    <text x="28" y="93" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="850">NÚCLEO TÁTICO</text>
+    <text x="28" y="124" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Plataforma estratégica para estudos, desempenho</text>
+    <text x="28" y="147" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">e preparação de profissionais de segurança pública.</text>
+    <g transform="translate(355 74)">
+      <rect width="117" height="79" rx="17" fill="#ffffff" opacity="0.09" stroke="#ffffff" stroke-opacity="0.22"/>
+      <path d="M23 57 L42 37 L58 47 L76 23 L94 34" fill="none" stroke="#e8cb78" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="76" cy="23" r="5" fill="#38bdf8"/>
+    </g>
+  </g>
+
+  <!-- Portfolio card -->
+  <g transform="translate(590 158)" filter="url(#shadow)">
+    <rect x="8" y="10" width="552" height="190" rx="24" fill="#94a3b8" opacity="0.17"/>
+    <rect width="552" height="190" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+    <rect width="12" height="190" rx="6" fill="url(#blue)"/>
+    <rect x="31" y="27" width="127" height="27" rx="13.5" fill="#dbeafe"/>
+    <text x="94" y="46" text-anchor="middle" fill="#1d4ed8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="1">PORTFÓLIO WEB</text>
+    <text x="31" y="93" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">TROPA CIENTÍFICA</text>
+    <text x="31" y="124" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Site autoral de tecnologia e ciência, com narrativa</text>
+    <text x="31" y="147" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">visual e primeira experiência própria de scroll interativo.</text>
+    <g transform="translate(420 45)">
+      <rect width="92" height="101" rx="20" fill="#eff6ff" stroke="#bfdbfe"/>
+      <circle cx="46" cy="42" r="23" fill="url(#blue)" opacity="0.94"/>
+      <path d="M31 42 H61 M46 27 V57" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+      <rect x="21" y="77" width="50" height="7" rx="3.5" fill="#93c5fd"/>
+    </g>
+  </g>
+
+  <!-- Three lower cards -->
+  <g transform="translate(58 385)" filter="url(#shadow)">
+    <rect x="7" y="9" width="346" height="163" rx="22" fill="#94a3b8" opacity="0.16"/>
+    <rect width="346" height="163" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+    <circle cx="45" cy="42" r="21" fill="url(#red)"/>
+    <path d="M34 42 H56 M45 31 V53" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+    <text x="78" y="39" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="850">VIA PNEUS BR</text>
+    <text x="78" y="60" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">EXPERIÊNCIA COMERCIAL</text>
+    <text x="27" y="100" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Presença digital responsiva para o</text>
+    <text x="27" y="121" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">segmento automotivo, com foco em</text>
+    <text x="27" y="142" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">autoridade, serviços e conversão.</text>
+  </g>
+
+  <g transform="translate(427 385)" filter="url(#shadow)">
+    <rect x="7" y="9" width="346" height="163" rx="22" fill="#94a3b8" opacity="0.16"/>
+    <rect width="346" height="163" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+    <circle cx="45" cy="42" r="21" fill="url(#green)"/>
+    <path d="M32 45 C36 29 55 27 59 43 C55 56 38 58 32 45 Z" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <text x="78" y="39" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="850">LONGEVIDA 50+</text>
+    <text x="78" y="60" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">SAÚDE E BEM-ESTAR</text>
+    <text x="27" y="100" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Experiência digital voltada ao público</text>
+    <text x="27" y="121" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">50+, com comunicação acessível,</text>
+    <text x="27" y="142" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">acolhedora e orientada à qualidade de vida.</text>
+  </g>
+
+  <g transform="translate(796 385)" filter="url(#shadow)">
+    <rect x="7" y="9" width="346" height="163" rx="22" fill="#94a3b8" opacity="0.16"/>
+    <rect width="346" height="163" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+    <circle cx="45" cy="42" r="21" fill="url(#violet)"/>
+    <path d="M31 51 L31 34 L59 34 L59 51 M38 34 V26 H52 V34" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
+    <text x="78" y="39" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="850">CONACIPS 2025</text>
+    <text x="78" y="60" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">PLATAFORMA DE EVENTO</text>
+    <text x="27" y="100" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Site institucional com programação,</text>
+    <text x="27" y="121" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">palestrantes, oficinas, datas e</text>
+    <text x="27" y="142" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">integração com formulários.</text>
+  </g>
+
+  <g opacity="0.65">
+    <circle cx="1120" cy="565" r="5" fill="#d4af37"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></circle>
+    <text x="1104" y="570" text-anchor="end" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">React • TypeScript • Vite • UI responsiva • Motion • Integrações</text>
+  </g>
+</svg>
