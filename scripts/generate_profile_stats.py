@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Generate self-hosted SVG cards for the GitHub profile README.
+"""Generate premium self-hosted SVG cards for the GitHub profile README.
 
-The script uses only the Python standard library and GitHub's public REST API.
-It is designed to run in GitHub Actions with the repository GITHUB_TOKEN.
+The script uses only Python's standard library and the official GitHub REST API.
+The generated images stay inside this repository, avoiding fragile external cards.
 """
 
 from __future__ import annotations
@@ -24,7 +24,7 @@ API_ROOT = "https://api.github.com"
 ASSETS_DIR = Path(__file__).resolve().parents[1] / "assets"
 
 LANGUAGE_COLORS = {
-    "JavaScript": "#f7df1e",
+    "JavaScript": "#f0c419",
     "TypeScript": "#3178c6",
     "Python": "#3776ab",
     "HTML": "#e34f26",
@@ -34,12 +34,12 @@ LANGUAGE_COLORS = {
     "C++": "#f34b7d",
     "C#": "#178600",
     "PHP": "#4f5d95",
-    "Shell": "#89e051",
+    "Shell": "#4d7c0f",
     "Jupyter Notebook": "#da5b0b",
     "PLpgSQL": "#336791",
     "Vue": "#41b883",
     "Dart": "#00b4ab",
-    "Kotlin": "#a97bff",
+    "Kotlin": "#7c3aed",
 }
 
 
@@ -92,6 +92,28 @@ def collect_languages(repositories: list[dict[str, Any]]) -> Counter[str]:
     return totals
 
 
+def shared_defs() -> str:
+    return '''
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#edf1f7"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#956914"/>
+      <stop offset="0.52" stop-color="#e5c56f"/>
+      <stop offset="1" stop-color="#a97919"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="190%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.13"/>
+    </filter>
+  </defs>'''
+
+
 def overview_svg(profile: dict[str, Any], repositories: list[dict[str, Any]]) -> str:
     public_repos = int(profile.get("public_repos", len(repositories)))
     followers = int(profile.get("followers", 0))
@@ -103,39 +125,37 @@ def overview_svg(profile: dict[str, Any], repositories: list[dict[str, Any]]) ->
     updated = datetime.now(timezone.utc).strftime("%d/%m/%Y")
 
     metrics = [
-        (str(public_repos), "repositórios públicos"),
-        (str(original_projects), "projetos originais"),
-        (str(total_stars), "stars recebidas"),
-        (str(followers), "seguidores"),
+        (str(public_repos), "REPOSITÓRIOS"),
+        (str(original_projects), "PROJETOS ORIGINAIS"),
+        (str(total_stars), "STARS"),
+        (str(followers), "SEGUIDORES"),
     ]
 
-    boxes = []
+    boxes: list[str] = []
     for index, (value, label) in enumerate(metrics):
-        x = 24 + index * 134
+        x = 25 + index * 134
         boxes.append(
-            f'''<rect x="{x}" y="94" width="122" height="92" rx="14" fill="#ffffff" opacity="0.035" stroke="#334155"/>
-    <text x="{x + 61}" y="137" text-anchor="middle" fill="#e5c56f" font-size="31" font-weight="800">{escape(value)}</text>
-    <text x="{x + 61}" y="162" text-anchor="middle" fill="#cbd5e1" font-size="11.5">{escape(label)}</text>'''
+            f'''<g filter="url(#shadow)">
+      <rect x="{x + 5}" y="103" width="119" height="84" rx="15" fill="#94a3b8" opacity="0.16"/>
+      <rect x="{x}" y="96" width="119" height="84" rx="15" fill="#ffffff" stroke="#d7dee9"/>
+      <text x="{x + 59.5}" y="135" text-anchor="middle" fill="#0f172a" font-size="29" font-weight="850">{escape(value)}</text>
+      <text x="{x + 59.5}" y="160" text-anchor="middle" fill="#64748b" font-size="9.8" font-weight="800" letter-spacing="0.55">{escape(label)}</text>
+    </g>'''
         )
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-labelledby="title desc">
-  <title id="title">Estatísticas públicas do GitHub</title>
-  <desc id="desc">Repositórios, projetos originais, estrelas e seguidores de {escape(USERNAME)}.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1525"/>
-      <stop offset="1" stop-color="#172235"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="578" height="228" rx="20" fill="url(#bg)" stroke="#334155"/>
-  <rect x="24" y="24" width="5" height="34" rx="2.5" fill="#d4af37"/>
-  <text x="42" y="48" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">GitHub em números</text>
-  <text x="42" y="70" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Dados públicos calculados pela API oficial do GitHub</text>
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    {''.join(boxes)}
-  </g>
-  <circle cx="28" cy="207" r="4" fill="#22c55e"/>
-  <text x="40" y="212" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">{active_projects} projetos ativos • atualizado em {updated}</text>
+  <title id="title">GitHub em dados</title>
+  <desc id="desc">Indicadores públicos calculados pela API oficial do GitHub.</desc>{shared_defs()}
+  <rect x="1" y="1" width="578" height="228" rx="21" fill="url(#bg)" stroke="#cbd5e1" stroke-width="2"/>
+  <circle cx="520" cy="35" r="76" fill="#d4af37" opacity="0.07"/>
+  <rect x="24" y="24" width="6" height="39" rx="3" fill="url(#gold)"/>
+  <text x="43" y="46" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="850">GITHUB EM DADOS</text>
+  <text x="43" y="69" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12.5">Indicadores públicos • API oficial • ativo próprio</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">{''.join(boxes)}</g>
+  <circle cx="29" cy="207" r="4.5" fill="#22c55e">
+    <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="42" y="212" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11.5">{active_projects} projetos ativos • atualizado em {updated}</text>
 </svg>'''
 
 
@@ -148,37 +168,30 @@ def languages_svg(language_totals: Counter[str]) -> str:
         top_languages = [("Dados indisponíveis", 1)]
         total = 1
 
-    rows = []
+    rows: list[str] = []
     for index, (language, amount) in enumerate(top_languages):
         percentage = amount / total * 100
-        y = 94 + index * 23
-        color = LANGUAGE_COLORS.get(language, "#d4af37")
-        bar_width = max(4.0, min(310.0, percentage * 3.1))
+        y = 99 + index * 23
+        color = LANGUAGE_COLORS.get(language, "#a97919")
+        bar_width = max(5.0, min(290.0, percentage * 2.9))
         rows.append(
             f'''<circle cx="30" cy="{y}" r="5" fill="{color}"/>
-    <text x="44" y="{y + 5}" fill="#e2e8f0" font-size="12.5" font-weight="600">{escape(language)}</text>
-    <rect x="178" y="{y - 7}" width="310" height="10" rx="5" fill="#ffffff" opacity="0.055"/>
-    <rect x="178" y="{y - 7}" width="{bar_width:.1f}" height="10" rx="5" fill="{color}" opacity="0.82"/>
-    <text x="548" y="{y + 5}" text-anchor="end" fill="#94a3b8" font-size="12">{percentage:.1f}%</text>'''
+    <text x="44" y="{y + 5}" fill="#1e293b" font-size="12.2" font-weight="750">{escape(language)}</text>
+    <rect x="176" y="{y - 7}" width="290" height="10" rx="5" fill="#dfe6ef"/>
+    <rect x="176" y="{y - 7}" width="{bar_width:.1f}" height="10" rx="5" fill="{color}" opacity="0.9"/>
+    <text x="548" y="{y + 5}" text-anchor="end" fill="#475569" font-size="11.5" font-weight="700">{percentage:.1f}%</text>'''
         )
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-labelledby="title desc">
-  <title id="title">Linguagens do portfólio público</title>
-  <desc id="desc">Distribuição das cinco principais linguagens por volume de código em repositórios públicos não arquivados.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1525"/>
-      <stop offset="1" stop-color="#172235"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="578" height="228" rx="20" fill="url(#bg)" stroke="#334155"/>
-  <rect x="24" y="24" width="5" height="34" rx="2.5" fill="#d4af37"/>
-  <text x="42" y="48" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Linguagens do portfólio</text>
-  <text x="42" y="70" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Distribuição por bytes de código nos projetos públicos ativos</text>
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    {''.join(rows)}
-  </g>
-  <text x="24" y="216" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Atualizado automaticamente em {updated} • não representa nível de domínio</text>
+  <title id="title">Tecnologias do portfólio</title>
+  <desc id="desc">Distribuição das principais linguagens nos repositórios públicos ativos.</desc>{shared_defs()}
+  <rect x="1" y="1" width="578" height="228" rx="21" fill="url(#bg)" stroke="#cbd5e1" stroke-width="2"/>
+  <circle cx="516" cy="35" r="76" fill="#2563eb" opacity="0.055"/>
+  <rect x="24" y="24" width="6" height="39" rx="3" fill="url(#blue)"/>
+  <text x="43" y="46" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="850">TECNOLOGIAS DO PORTFÓLIO</text>
+  <text x="43" y="69" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12.5">Distribuição por volume de código público ativo</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">{''.join(rows)}</g>
+  <text x="24" y="216" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11.5">Atualizado em {updated} • não representa, isoladamente, nível de domínio</text>
 </svg>'''
 
 
@@ -198,7 +211,7 @@ def main() -> int:
     (ASSETS_DIR / "top-languages.svg").write_text(
         languages_svg(languages), encoding="utf-8"
     )
-    print("Profile statistics generated successfully.")
+    print("Premium profile statistics generated successfully.")
     return 0
 
 
