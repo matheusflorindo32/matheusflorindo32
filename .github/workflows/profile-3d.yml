@@ -1,0 +1,47 @@
+name: Generate 3D Contribution Grid
+
+"on":
+  schedule:
+    - cron: "37 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-3d.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d-contribution-grid
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Generate GitHub Profile 3D Contrib
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution assets
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit generated assets
+        run: |
+          if [ -z "$(git status --porcelain -- profile-3d-contrib)" ]; then
+            echo "No 3D contribution changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git commit -m "chore: update 3D contribution grid"
+          git push
