@@ -58,6 +58,15 @@ Minha experiência de campo ajuda a reconhecer necessidades concretas. A pesquis
 
 **Pesquisador e membro do Grupo de Fisiologia Translacional Aplicada à Saúde, Esporte e Desempenho Humano**, vinculado ao Centro de Educação Física e Desportos da Universidade Federal do Espírito Santo — **CEFD/UFES**.
 
+<div align="center">
+
+![Artigos publicados](https://img.shields.io/badge/ARTIGOS%20PUBLICADOS-4-0F766E?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Livros com ISBN](https://img.shields.io/badge/LIVROS%20COM%20ISBN-3-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)
+![Trabalhos em anais](https://img.shields.io/badge/TRABALHOS%20EM%20ANAIS-6-B45309?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Grupo de pesquisa](https://img.shields.io/badge/PESQUISA-CEFD%2FUFES-005CA9?style=for-the-badge&logo=academia&logoColor=white)
+
+</div>
+
 ### Artigos publicados e verificados
 
 | PUBLICAÇÃO | PERIÓDICO | ANO / IDENTIFICADOR |
@@ -65,8 +74,9 @@ Minha experiência de campo ajuda a reconhecer necessidades concretas. A pesquis
 | **[Musculoskeletal discomfort associated with special operations uniform use in elite police officers: a cross-sectional study](https://doi.org/10.3389/fpubh.2026.1817387)** | Frontiers in Public Health | 2026 • DOI 10.3389/fpubh.2026.1817387 |
 | **[Nível de atividade física e comportamento sedentário de motoristas de aplicativo do Espírito Santo](https://doi.org/10.62827/fb.v26i5.1096)** | Fisioterapia Brasil | 2025 • DOI 10.62827/fb.v26i5.1096 |
 | **[Lifestyle characterisation of the municipal guard agents in the city of Vitória-ES](https://doi.org/10.6063/motricidade.41427)** | Motricidade | 2026 • DOI 10.6063/motricidade.41427 |
+| **[Exercícios multiarticulares promovem maior resposta hemodinâmica, independentemente da experiência em treinamento de força](https://doi.org/10.36311/jhgd.v36.18410)** | Journal of Human Growth and Development | 2026 • DOI 10.36311/jhgd.v36.18410 |
 
-Além dos artigos em periódicos nacionais e internacionais, possuo **seis resumos publicados nos Anais do CONACIPS 2025**, obra com ISBN `978-65-89535-49-2`, relacionados à saúde ocupacional, desempenho humano, preparação física e segurança pública.
+Além dos artigos em periódicos nacionais e internacionais, possuo **seis trabalhos publicados nos Anais do CONACIPS 2025**, obra com ISBN `978-65-89535-49-2`, relacionados à saúde ocupacional, desempenho humano, preparação física e segurança pública.
 
 <div align="center">
 
@@ -78,15 +88,13 @@ Além dos artigos em periódicos nacionais e internacionais, possuo **seis resum
 
 ---
 
-## PRODUÇÃO EDITORIAL E TÉCNICO-CIENTÍFICA
+## LIVROS E PRODUÇÃO TÉCNICO-CIENTÍFICA
 
-| OBRA | PARTICIPAÇÃO | SITUAÇÃO DOCUMENTAL |
+| OBRA PUBLICADA | PARTICIPAÇÃO | PUBLICAÇÃO |
 |:---|:---|:---|
-| **Tratado de Atendimento Pré-Hospitalar Tático para Segurança Pública** | Organizador-geral, autor, planejamento editorial, diagramação, identidade visual e coordenação de obra multi-autoral | **Em finalização editorial; ISBN pendente** |
-| **Manual de Primeiros Socorros, Atendimento Pré-Hospitalar, APH Tático e Cuidados Táticos K9 para Agentes de Segurança Pública** | Pesquisador/autor, desenvolvimento técnico, curadoria e produção editorial | **Em finalização editorial; ISBN pendente** |
-| **Guia de Preparação Física para Agentes de Segurança Pública** | Organização, autoria e tradução do conhecimento científico para aplicação ocupacional | **Em revisão editorial** |
-
-> Obras sem ISBN ou página pública de venda são apresentadas com seu estágio documental real, sem classificá-las prematuramente como publicadas.
+| **Tratado de APH Tático para Segurança Pública: Protocolos Operacionais em Ambientes de Alto Risco** | Organizador-geral, autor, planejamento editorial, identidade visual e coordenação da obra multi-autoral | **2026 • ISBN 978-65-02-16157-9** |
+| **Estilo de Vida em Agentes de Segurança Pública: Possibilidades e Aplicações** | Coautor; produção técnico-científica voltada à saúde, ao desempenho e ao bem-estar ocupacional | **2026 • ISBN 978-65-02-05509-0** |
+| **Guia de Nutrição para o Agente de Segurança Pública** | Coautor; tradução do conhecimento científico para alimentação, saúde, desempenho e longevidade profissional | **2026 • ISBN 978-65-02-10278-7** |
 
 ---
 
@@ -130,9 +138,23 @@ Além dos artigos em periódicos nacionais e internacionais, possuo **seis resum
 
 </div>
 
-### Experiência Visual, 3D e Motion
+### Experiência Visual, 3D, Motion e Design Systems
 
-`Three.js` • `React Three Fiber` • `Framer Motion` • `GSAP` • `Canvas` • `SVG Animado` • `Scroll-driven Interaction` • `Glassmorphism` • `Design Systems` • `Responsive UX` • `Shadcn/UI`
+<div align="center">
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logoColor=111827)
+![Canvas](https://img.shields.io/badge/Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SVG Animado](https://img.shields.io/badge/SVG%20Animado-FFB13B?style=for-the-badge&logo=svg&logoColor=111827)
+![Scroll Driven](https://img.shields.io/badge/Scroll--Driven%20Interaction-7C3AED?style=for-the-badge&logoColor=white)
+![Glassmorphism](https://img.shields.io/badge/Glassmorphism-06B6D4?style=for-the-badge&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-EC4899?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive UX](https://img.shields.io/badge/Responsive%20UX-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%2FUI-111827?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
@@ -175,7 +197,7 @@ Além dos artigos em periódicos nacionais e internacionais, possuo **seis resum
 |:---|:---|
 | **AUTORIA END-TO-END** | Planejamento, estratégia, marca, logomarca, UX/UI, desenvolvimento, conteúdo, publicação e evolução de produtos |
 | **VISÃO DE CAMPO** | Compreensão de necessidades operacionais, educacionais e institucionais reais |
-| **BASE CIENTÍFICA** | Produção em periódicos nacionais e internacionais, pesquisa em grupo da UFES e avaliação crítica de evidências |
+| **BASE CIENTÍFICA** | Produção em periódicos nacionais e internacionais, livros com ISBN, pesquisa em grupo da UFES e avaliação crítica de evidências |
 | **EXECUÇÃO DIGITAL** | Transformação de ideias em produtos publicados, plataformas, automações e experiências web |
 | **COMUNICAÇÃO** | Tradução de temas complexos para públicos técnicos, acadêmicos e profissionais |
 | **INTEGRAÇÃO MULTIDISCIPLINAR** | Conexão entre tecnologia, pessoas, desempenho, educação e tomada de decisão |
