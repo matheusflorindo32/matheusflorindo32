@@ -30,6 +30,25 @@
 
 <br>
 
+<!-- Animated 3D Contribution Experience -->
+<div align="center">
+
+### GitHub Activity in Motion
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Animated 3D GitHub Contribution Grid" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusflorindo32/matheusflorindo32/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusflorindo32/matheusflorindo32/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/matheusflorindo32/matheusflorindo32/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br>
+
 ---
 
 ## Executive Summary
