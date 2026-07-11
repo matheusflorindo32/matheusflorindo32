@@ -147,8 +147,9 @@ Minha experiência de campo ajuda a reconhecer necessidades concretas. A formaç
 | **UniFatecie** | Bacharelado em Educação Física | **Em formação** |
 | **UniVitória** | Licenciatura em Educação Física | **Formação concluída; documentação final em regularização para emissão do diploma** |
 | **Gestão Ambiental** | Curso superior de tecnologia | **Concluído** |
-| **UniBF** | Licenciatura em Geografia | **Concluída** |
+| **UniBF** | Licenciatura em Geografia | **Em conclusão; estágio obrigatório pendente** |
 | **UFES** | Participação em pesquisa em Fisiologia Translacional | **Pesquisa aplicada e produção científica** |
+| **Marinha do Brasil** | Fuzileiro Naval — ingresso por concurso público federal | **Atuação de 2010 a 2013** |
 | **PMES** | Profissional de Segurança Pública | **Experiência operacional desde 2013** |
 
 <details>
