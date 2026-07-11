@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-labelledby="title desc">
-  <title id="title">Tecnologias presentes no portfólio</title>
-  <desc id="desc">Principais linguagens e tecnologias identificadas nos projetos públicos.</desc>
+  <title id="title">Linguagens do portfólio público</title>
+  <desc id="desc">Distribuição das cinco principais linguagens por volume de código em repositórios públicos não arquivados.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1525"/>
@@ -9,28 +9,30 @@
   </defs>
   <rect x="1" y="1" width="578" height="228" rx="20" fill="url(#bg)" stroke="#334155"/>
   <rect x="24" y="24" width="5" height="34" rx="2.5" fill="#d4af37"/>
-  <text x="42" y="48" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Tecnologias em evidência</text>
-  <text x="42" y="70" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Leitura inicial do portfólio público</text>
-
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">
-    <rect x="24" y="96" width="164" height="42" rx="12" fill="#f7df1e" opacity="0.14" stroke="#f7df1e"/>
-    <text x="106" y="122" text-anchor="middle" fill="#f8fafc">JavaScript</text>
-
-    <rect x="208" y="96" width="164" height="42" rx="12" fill="#3178c6" opacity="0.16" stroke="#3178c6"/>
-    <text x="290" y="122" text-anchor="middle" fill="#f8fafc">TypeScript</text>
-
-    <rect x="392" y="96" width="164" height="42" rx="12" fill="#3776ab" opacity="0.18" stroke="#3776ab"/>
-    <text x="474" y="122" text-anchor="middle" fill="#f8fafc">Python</text>
-
-    <rect x="24" y="154" width="164" height="42" rx="12" fill="#e34f26" opacity="0.15" stroke="#e34f26"/>
-    <text x="106" y="180" text-anchor="middle" fill="#f8fafc">HTML</text>
-
-    <rect x="208" y="154" width="164" height="42" rx="12" fill="#1572b6" opacity="0.17" stroke="#1572b6"/>
-    <text x="290" y="180" text-anchor="middle" fill="#f8fafc">CSS</text>
-
-    <rect x="392" y="154" width="164" height="42" rx="12" fill="#61dafb" opacity="0.10" stroke="#61dafb"/>
-    <text x="474" y="180" text-anchor="middle" fill="#f8fafc">React / Node.js</text>
+  <text x="42" y="48" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Linguagens do portfólio</text>
+  <text x="42" y="70" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Distribuição por bytes de código nos projetos públicos ativos</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <circle cx="30" cy="97" r="5" fill="#3178c6"/>
+    <text x="44" y="102" fill="#e2e8f0" font-size="13" font-weight="600">TypeScript</text>
+    <rect x="178" y="90" width="310" height="10" rx="5" fill="#ffffff" opacity="0.055"/>
+    <rect x="178" y="90" width="231.6" height="10" rx="5" fill="#3178c6" opacity="0.82"/>
+    <text x="548" y="102" text-anchor="end" fill="#94a3b8" font-size="12">74.7%</text><circle cx="30" cy="124" r="5" fill="#f7df1e"/>
+    <text x="44" y="129" fill="#e2e8f0" font-size="13" font-weight="600">JavaScript</text>
+    <rect x="178" y="117" width="310" height="10" rx="5" fill="#ffffff" opacity="0.055"/>
+    <rect x="178" y="117" width="23.0" height="10" rx="5" fill="#f7df1e" opacity="0.82"/>
+    <text x="548" y="129" text-anchor="end" fill="#94a3b8" font-size="12">7.4%</text><circle cx="30" cy="151" r="5" fill="#1572b6"/>
+    <text x="44" y="156" fill="#e2e8f0" font-size="13" font-weight="600">CSS</text>
+    <rect x="178" y="144" width="310" height="10" rx="5" fill="#ffffff" opacity="0.055"/>
+    <rect x="178" y="144" width="19.0" height="10" rx="5" fill="#1572b6" opacity="0.82"/>
+    <text x="548" y="156" text-anchor="end" fill="#94a3b8" font-size="12">6.1%</text><circle cx="30" cy="178" r="5" fill="#d4af37"/>
+    <text x="44" y="183" fill="#e2e8f0" font-size="13" font-weight="600">PLpgSQL</text>
+    <rect x="178" y="171" width="310" height="10" rx="5" fill="#ffffff" opacity="0.055"/>
+    <rect x="178" y="171" width="10.7" height="10" rx="5" fill="#d4af37" opacity="0.82"/>
+    <text x="548" y="183" text-anchor="end" fill="#94a3b8" font-size="12">3.5%</text><circle cx="30" cy="205" r="5" fill="#3776ab"/>
+    <text x="44" y="210" fill="#e2e8f0" font-size="13" font-weight="600">Python</text>
+    <rect x="178" y="198" width="310" height="10" rx="5" fill="#ffffff" opacity="0.055"/>
+    <rect x="178" y="198" width="8.5" height="10" rx="5" fill="#3776ab" opacity="0.82"/>
+    <text x="548" y="210" text-anchor="end" fill="#94a3b8" font-size="12">2.8%</text>
   </g>
-
-  <text x="24" y="216" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">O card será recalculado automaticamente a partir dos repositórios públicos.</text>
+  <text x="24" y="216" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Atualizado automaticamente em 11/07/2026 • não representa nível de domínio</text>
 </svg>
