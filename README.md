@@ -1,22 +1,12 @@
 <div align="center">
 
-<!-- 3D Animated Header with Typing Effect -->
+<!-- Header Compacto e Autoritário -->
 <a href="https://github.com/matheusflorindo32">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=MATHEUS+FLORINDO+DE+DEUS;CEO+%26+Founder+%E2%80%94+N%C3%BAcleo+T%C3%A1tico+Group;Researcher+UFES+%7C+PMES+%7C+Systems+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=MATHEUS+FLORINDO+DE+DEUS;CEO+%26+Founder+%E2%80%94+N%C3%BAcleo+T%C3%A1tico+Group;Researcher+UFES+%7C+PMES+%7C+Systems+Architect" alt="Typing SVG" />
 </a>
 
-<!-- 3D Snake Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusflorindo32/matheusflorindo32/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusflorindo32/matheusflorindo32/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation dos commits" src="https://raw.githubusercontent.com/matheusflorindo32/matheusflorindo32/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<!-- 3D Profile Contribution Grid (Auto-updated) -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Grid" />
-
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3b82f6,6366f1,8b5cf6&height=3&section=header&reversal=true" width="100%" />
+<!-- Divider Discreto -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,50:2d2d2d,100:1a1a1a&height=2&section=header" width="100%" />
 
 </div>
 
@@ -24,131 +14,115 @@
 
 <div align="center">
 
-<!-- Status Badges Row -->
-[![Profile Views](https://komarev.com/ghpvc/?username=matheusflorindo32&color=6366f1&style=for-the-badge)](https://github.com/matheusflorindo32)
-[![GitHub Followers](https://img.shields.io/github/followers/matheusflorindo32?color=3b82f6&label=Followers&style=for-the-badge&logo=github)](https://github.com/matheusflorindo32)
-[![Stars](https://img.shields.io/github/stars/matheusflorindo32?color=8b5cf6&label=Stars&style=for-the-badge&logo=github)](https://github.com/matheusflorindo32)
-[![Commits](https://img.shields.io/badge/Commits-1000+-6366f1?style=for-the-badge&logo=git&logoColor=white)](https://github.com/matheusflorindo32)
+<!-- Badges Profissionais -->
+[![Profile Views](https://komarev.com/ghpvc/?username=matheusflorindo32&color=2d2d2d&style=flat-square)](https://github.com/matheusflorindo32)
+[![GitHub Followers](https://img.shields.io/github/followers/matheusflorindo32?color=1a1a1a&label=Followers&style=flat-square&logo=github)](https://github.com/matheusflorindo32)
+[![Stars](https://img.shields.io/github/stars/matheusflorindo32?color=2d2d2d&label=Stars&style=flat-square&logo=github)](https://github.com/matheusflorindo32)
+[![Repos](https://img.shields.io/badge/Repos-27+-1a1a1a?style=flat-square&logo=github)](https://github.com/matheusflorindo32?tab=repositories)
 
-<!-- Professional Badges -->
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3848--0662-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-3848-0662)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-florindo-de-deus-b953b017a/)
-[![Instagram](https://img.shields.io/badge/Instagram-@tropacientifica-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/tropacientifica)
-[![Lattes](https://img.shields.io/badge/Lattes-8324016923278566-2E8B57?style=for-the-badge)](http://lattes.cnpq.br/8324016923278566)
+<!-- Credenciais -->
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3848--0662-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-3848-0662)
+[![Lattes](https://img.shields.io/badge/Lattes-8324016923278566-2E8B57?style=flat-square)](http://lattes.cnpq.br/8324016923278566)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-florindo-de-deus-b953b017a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tropacientifica)
 
-</div>
-
-<br>
-
-<!-- 3D GitHub Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheusflorindo32&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 ---
 
-## 🎯 Posicionamento Estratégico
+## Executive Summary
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   CEO & Founder — Núcleo Tático Group  │  Researcher UFES  │  PMES            ║
-║                                                                              ║
-║   Convergência: Tecnologia × Inteligência Artificial × Dados × Educação     ║
-║                 × Pesquisa Aplicada × Desempenho Humano × Segurança Pública  ║
-║                                                                              ║
-║   Experiência operacional → Necessidades concretas                          ║
-║   Formação acadêmica → Critérios técnicos e evidências                      ║
-║   Tecnologia → Aplicações, automações, dashboards e produtos digitais       ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│  CEO & Founder — Núcleo Tático Group  |  Researcher UFES  |  PMES          │
+│                                                                            │
+│  Operating at the intersection of Technology, Artificial Intelligence,      │
+│  Data Science, Education, Applied Research, Human Performance, and          │
+│  Public Safety.                                                             │
+│                                                                            │
+│  Operational experience identifies concrete needs.                         │
+│  Academic training provides criteria for evidence evaluation.              │
+│  Technology transforms these needs into applications, automations,         │
+│  dashboards, educational products, technical documentation, and            │
+│  scientific communication.                                                  │
+│                                                                            │
+│  Value proposition: Understand context, structure problems, and build       │
+│  solutions that can be used, evaluated, and improved.                       │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
-
-> **Proposta de valor:** Compreender o contexto, estruturar o problema e desenvolver uma solução que possa ser utilizada, avaliada e aprimorada.
 
 <br>
 
 ---
 
-## 🏛️ Ecossistema Profissional
+## Ecosystem
 
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/🎯-N%C3%9ACLEO_T%C3%81TICO-3b82f6?style=for-the-badge&labelColor=0d1117" width="100%" /><br>
-      <sub>Educação, tecnologia e preparação estratégica</sub><br>
-      <sub><b>Público:</b> Concursos, formação e desenvolvimento de profissionais de segurança pública</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/🔬-TROPA_CIENT%C3%8DFICA-6366f1?style=for-the-badge&labelColor=0d1117" width="100%" /><br>
-      <sub>IA, tecnologia e comunicação científica</sub><br>
-      <sub><b>Público:</b> Estudantes, pesquisadores, educadores e inovadores</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/🩸-PRIMEIROS_SOCORROS_NT-8b5cf6?style=for-the-badge&labelColor=0d1117" width="100%" /><br>
-      <sub>Conhecimento aplicado em primeiros socorros e APH</sub><br>
-      <sub><b>Público:</b> Educação em saúde, SBV e controle de hemorragias</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/⚡-APEX_OPS-10b981?style=for-the-badge&labelColor=0d1117" width="100%" /><br>
-      <sub>Preparação física e desempenho humano</sub><br>
-      <sub><b>Público:</b> Atleta tático, prontidão ocupacional e treinamento</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## 📂 Portfólio de Impacto
-
-| 🚀 Projeto | 🎯 Entrega Demonstrada | 🛠️ Stack Principal |
+| Brand | Focus | Target Audience |
 |:---|:---|:---|
-| **NÚCLEO TADS STORE** | E-commerce full-stack com autenticação, carrinho persistente, rotas dinâmicas e API REST | React, Vite, JavaScript, Context API, React Router, API REST |
-| **CHATGPT CLONE DIO** | Chat inteligente com frontend React, backend Node.js protegido e integração OpenAI | React, Node.js, Express, OpenAI API, Vercel, Railway |
-| **VOICEAI OPERACIONAL** | Pipeline de áudio: transcrição (Whisper) → processamento LLM → síntese de voz (ElevenLabs) | Python, Whisper, OpenAI, ElevenLabs, Automação |
-| **SALES DASHBOARD ANALYTICS** | Dashboard executivo com KPIs, análise de desempenho e indicadores de vendas | Excel, Power BI, Tabelas Dinâmicas, Business Intelligence |
-| **PRIMEIROS SOCORROS NT** | Repositório educacional completo: SBV, APH, controle de hemorragias e protocolos táticos | Educação em Saúde, Documentação, Curadoria, Pesquisa Aplicada |
-| **COMBATENTE CIENTÍFICO** | Podcast produzido com IA generativa: roteirização, narração ElevenLabs e divulgação científica | Pesquisa, ElevenLabs, Roteirização, Edição, Divulgação Científica |
+| **NÚCLEO TÁTICO** | Education, technology, and strategic preparation | Public safety professionals, competitive exam candidates |
+| **TROPA CIENTÍFICA** | AI, autonomous agents, automation, and scientific communication | Researchers, educators, and innovation professionals |
+| **PRIMEIROS SOCORROS NT** | Applied first aid and pre-hospital care | Health education, BLS, hemorrhage control, operational contexts |
+| **APEX OPS** | Physical preparation and human performance | Tactical athletes, operational readiness, training, and prevention |
 
 <br>
 
 ---
 
-## 💻 Stack Tecnológico
+## Selected Portfolio
 
-### 🌐 Desenvolvimento Web & Mobile
+| Project | Deliverable | Stack | Impact |
+|:---|:---|:---|:---|
+| **Concurso Low-Code Seeker** | Public exam compatibility system for LEDS IFES — Docker, CI/CD, E2E tests | React, TypeScript, Vite, Tailwind, Vitest, Playwright, Docker | Academic project with enterprise-grade structure |
+| **Núcleo Tático Platform** | Complete competitive exam prep platform with AI, performance metrics, and premium content | TypeScript, Next.js, PostgreSQL, AI integration | Production platform for public safety education |
+| **NT Command Center** | AI agent monitoring dashboard for Núcleo Tático operations | HTML, JavaScript, Real-time monitoring | Operational command interface |
+| **Núcleo Tático 3D Site** | Immersive educational platform with Three.js interactive interface for tactical training | Three.js, React, TypeScript, 3D graphics | Immersive learning experience |
+| **DIO Bank Pro** | Banking system with Clean Architecture, SOLID principles, and automated tests | TypeScript, Node.js, Jest, Clean Architecture | Enterprise-grade financial system |
+| **VoiceAI Operacional** | Voice AI pipeline: Whisper STT → OpenAI LLM → ElevenLabs TTS | Python, Whisper, OpenAI, ElevenLabs | Automated audio processing pipeline |
+| **ChatGPT Clone DIO** | Full-stack chat application with protected backend and OpenAI integration | React, Node.js, Express, OpenAI API, Vercel | Production-ready AI chat |
+| **Assistente Virtual IA NT** | AI-powered virtual assistant for competitive exam study organization | Python, LLMs, Automation | Study optimization tool |
+| **Primeiros Socorros NT** | Educational repository: BLS, APH, hemorrhage control, tactical protocols | Documentation, Curation, Applied Research | Open-source medical education |
+| **Combatente Científico** | Evidence-based tactical training podcast produced with generative AI | ElevenLabs, Research, Scripting | Scientific dissemination |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,html,css,tailwind,nextjs&theme=dark&perline=9" alt="Web Stack" />
+<br>
+
+---
+
+## Technology Stack
+
+### Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,nodejs,html,css,tailwind,python&theme=dark&perline=10" alt="Development Stack" />
 </p>
 
-### 📊 Dados, Backend & Cloud
+### Data & Infrastructure
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgresql,supabase,git,github,vercel,railway,docker&theme=dark&perline=8" alt="Data Stack" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,supabase,git,github,vercel,docker,linux,ubuntu,nginx&theme=dark&perline=9" alt="Infrastructure Stack" />
 </p>
 
-### 🤖 Inteligência Artificial & Automação
+### AI & Automation
 
-<p align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,opencv&theme=dark&perline=6" alt="AI Stack" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-6366f1?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-3b82f6?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-### 🛠️ Ferramentas & Produto
+### Productivity & Research
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=obsidian,md,figma,notion,linux,ubuntu&theme=dark&perline=6" alt="Tools Stack" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=obsidian,md,figma,notion&theme=dark&perline=6" alt="Productivity Stack" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
@@ -156,49 +130,28 @@
 
 ---
 
-## 📊 Métricas & Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<!-- Main Stats Row -->
 <a href="https://github.com/matheusflorindo32">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusflorindo32&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=3b82f6&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusflorindo32&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/matheusflorindo32">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusflorindo32&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_radius=10" alt="Top Languages" />
-</a>
-
-<br><br>
-
-<!-- Streak Stats with 3D Effect -->
-<a href="https://github.com/matheusflorindo32">
-  <img src="https://streak-stats.demolab.com/?user=matheusflorindo32&theme=radical&hide_border=true&background=0d1117&stroke=6366f1&ring=3b82f6&fire=8b5cf6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366f1&sideLabels=6366f1&dates=8b949e&border_radius=10" width="80%" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusflorindo32&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9" alt="Top Languages" />
 </a>
 
 <br><br>
 
-<!-- Contribution Activity Graph -->
 <a href="https://github.com/matheusflorindo32">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusflorindo32&theme=radical&hide_border=true&bg_color=0d1117&color=6366f1&line=3b82f6&point=8b5cf6&area=true&area_color=3b82f6&border_radius=10" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusflorindo32&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=d4af37&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="75%" alt="GitHub Streak" />
 </a>
 
 <br><br>
 
-<!-- 3D Metrics -->
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/matheusflorindo32">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matheusflorindo32&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_radius=10" width="100%" alt="WakaTime Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/matheusflorindo32">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusflorindo32&repo=responsive-realm-app&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_radius=10" width="100%" alt="Pinned Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/matheusflorindo32">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusflorindo32&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=d4af37&area=true&area_color=58a6ff" width="90%" alt="Activity Graph" />
+</a>
 
 </div>
 
@@ -206,64 +159,61 @@
 
 ---
 
-## 🏆 Diferenciais Competitivos
+## Competitive Advantages
 
 ```
-    ╔═══════════════════════════════════════════════════════════════════════╗
-    ║                                                                       ║
-    ║   🎯 VISÃO DE CAMPO                                                   ║
-    ║   Compreensão de necessidades operacionais, educacionais e           ║
-    ║   institucionais reais — não teoria, mas prática de campo.             ║
-    ║                                                                       ║
-    ║   🔬 BASE CIENTÍFICA                                                ║
-    ║   Busca por evidências, critérios técnicos, referências e              ║
-    ║   avaliação crítica — pesquisador UFES, ORCID ativo.                  ║
-    ║                                                                       ║
-    ║   ⚡ EXECUÇÃO DIGITAL                                                 ║
-    ║   Transformação de ideias em protótipos, aplicações, automações      ║
-    ║   e produtos — do conceito ao deploy.                                  ║
-    ║                                                                       ║
-    ║   🗣️ COMUNICAÇÃO                                                      ║
-    ║   Tradução de temas complexos para públicos técnicos, acadêmicos      ║
-    ║   e profissionais — ciência acessível.                                 ║
-    ║                                                                       ║
-    ║   🔗 INTEGRAÇÃO MULTIDISCIPLINAR                                     ║
-    ║   Conexão entre tecnologia, pessoas, desempenho, educação e            ║
-    ║   tomada de decisão — visão sistêmica.                                 ║
-    ║                                                                       ║
-    ╚═══════════════════════════════════════════════════════════════════════╝
+    ┌─────────────────────────────────────────────────────────────────────┐
+    │                                                                     │
+    │   FIELD VISION                                                        │
+    │   Understanding of real operational, educational, and institutional  │
+    │   needs — not theory, but field practice.                             │
+    │                                                                     │
+    │   SCIENTIFIC FOUNDATION                                              │
+    │   Evidence-based approach, technical criteria, references, and        │
+    │   critical evaluation — UFES researcher, active ORCID.                │
+    │                                                                     │
+    │   DIGITAL EXECUTION                                                  │
+    │   Transforming ideas into prototypes, applications, automations,     │
+    │   and products — from concept to deployment.                          │
+    │                                                                     │
+    │   COMMUNICATION                                                      │
+    │   Translating complex topics for technical, academic, and            │
+    │   professional audiences — accessible science.                        │
+    │                                                                     │
+    │   MULTIDISCIPLINARY INTEGRATION                                      │
+    │   Connecting technology, people, performance, education, and          │
+    │   decision-making — systems thinking.                                 │
+    │                                                                     │
+    └─────────────────────────────────────────────────────────────────────┘
 ```
 
 <br>
 
 ---
 
-## 🎓 Formação & Base Profissional
+## Education & Professional Background
 
-<div align="center">
-
-| 🎓 Instituição | 📚 Formação | ⏱️ Status |
+| Institution | Degree | Status |
 |:---|:---|:---|
-| **IFES** | Análise e Desenvolvimento de Sistemas | Em formação |
-| **UniFatecie** | Educação Física (ênfase em desempenho e populações ocupacionais) | Em formação |
-| **UNIASSELVI** | Gestão Ambiental | ✅ Concluído |
-| **UNIBF** | Geografia | ✅ Concluído |
-| **UFES** | Pesquisa em Fisiologia Translacional | 🔬 Pesquisador ativo (ORCID: 0009-0006-3848-0662) |
-| **PMES** | Profissional de Segurança Pública | 🎖️ Operacional desde 2013 |
-
-</div>
+| **IFES** | Systems Analysis and Development | In progress |
+| **UniFatecie** | Physical Education (emphasis on performance and occupational populations) | Awaiting diploma |
+| **UniVitória** | Physical Education — Licentiate | Awaiting diploma |
+| **UNIASSELVI** | Environmental Management | ✅ Completed |
+| **UNIBF** | Geography | ✅ Completed |
+| **UFES** | Translational Physiology Research | 🔬 Active researcher (ORCID: 0009-0006-3848-0662) |
+| **PMES** | Public Safety Professional | 🎖️ Operational since 2013 |
 
 <details>
-<summary>📋 Especializações & Certificações (Clique para expandir)</summary>
+<summary>Specializations & Certifications</summary>
 
-- **Inteligência Artificial** — Aplicações práticas de LLMs e agentes
-- **Ciência de Dados** — Análise, visualização e modelagem
-- **Business Intelligence** — Dashboards e indicadores estratégicos
-- **Cloud Computing** — Infraestrutura escalável e serverless
-- **Segurança da Informação** — Proteção de dados e sistemas
-- **Educação e Docência** — Metodologias ativas e EdTech
-- **Preparação Física** — Condicionamento e desempenho humano
-- **Atendimento Pré-Hospitalar** — TCCC, TECC, SBV e controle de hemorragias
+- **Artificial Intelligence** — Practical LLM and agent applications
+- **Data Science** — Analysis, visualization, and modeling
+- **Business Intelligence** — Dashboards and strategic indicators
+- **Cloud Computing** — Scalable and serverless infrastructure
+- **Information Security** — Data and systems protection
+- **Education and Teaching** — Active methodologies and EdTech
+- **Physical Preparation** — Conditioning and human performance
+- **Pre-Hospital Care** — TCCC, TECC, BLS, and hemorrhage control
 
 </details>
 
@@ -271,26 +221,38 @@
 
 ---
 
-## 🤝 Possibilidades de Colaboração
+## Languages
+
+| Language | Level |
+|:---|:---|
+| **Portuguese** | Native |
+| **English** | A2 (Basic — reading comprehension, limited conversation) |
+| **Spanish** | A2 (Basic — reading comprehension, limited conversation) |
+
+<br>
+
+---
+
+## Collaboration Opportunities
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   💻 MVPs e Aplicações Web      🤖 Automações com IA       📊 Dashboards ║
-║      ├─ Protótipos funcionais      ├─ Agentes de IA          ├─ KPIs    ║
-║      ├─ Interfaces responsivas     ├─ Voice AI               ├─ ETL      ║
-║      ├─ Integrações API            ├─ Fluxos n8n             ├─ Python   ║
-║      └─ Deploy cloud               └─ LLMs customizados      └─ BI      ║
-║                                                                          ║
-║   🎓 Produtos Educacionais      📢 Comunicação Científica   🎖️ Segurança ║
-║      ├─ Cursos e treinamentos      ├─ Revisão técnica         Pública   ║
-║      ├─ Guias técnicos             ├─ Divulgação científica    ├─ APH    ║
-║      ├─ Materiais didáticos        ├─ Roteirização            ├─ TCCC   ║
-║      └─ Documentação               └─ Podcast e vídeo         └─ TECC   ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   WEB APPLICATIONS          AI AUTOMATION              DATA ANALYTICS    │
+│   ├─ MVPs & Prototypes      ├─ AI Agents               ├─ Dashboards    │
+│   ├─ Responsive Interfaces  ├─ Voice AI                ├─ ETL Pipelines │
+│   ├─ API Integrations       ├─ Workflow Automation     ├─ Python BI     │
+│   └─ Cloud Deployment       └─ Custom LLMs             └─ Indicators   │
+│                                                                          │
+│   EDUCATIONAL PRODUCTS      SCIENTIFIC COMMUNICATION   PUBLIC SAFETY   │
+│   ├─ Courses & Training     ├─ Technical Review        ├─ First Aid    │
+│   ├─ Technical Guides       ├─ Scientific Dissemination ├─ TCCC/TECC   │
+│   ├─ Teaching Materials     ├─ Scriptwriting           ├─ Operational  │
+│   └─ Documentation          └─ Podcast & Video         └─ Performance  │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -301,38 +263,35 @@
 
 <div align="center">
 
-## 📬 Vamos construir algo relevante?
+## Contact
 
-**Uma boa parceria começa com um problema bem compreendido.**
-
-<br>
-
-[![Email](https://img.shields.io/badge/📧_matheusdideusf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdideusf@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/📱_(27)_99239--1080-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527992391080)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-florindo-de-deus-b953b017a/)
-[![Instagram](https://img.shields.io/badge/📷_@tropacientifica-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tropacientifica)
+**A good partnership starts with a well-understood problem.**
 
 <br>
 
-📍 **Serra/ES, Brasil** | 🌎 **GMT-3 (Horário de Brasília)**
+[![Email](https://img.shields.io/badge/matheusdideusf@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusdideusf@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/(27)_99239--1080-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5527992391080)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-florindo-de-deus-b953b017a/)
+[![Instagram](https://img.shields.io/badge/@tropacientifica-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tropacientifica)
 
 <br>
 
-<!-- Animated Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=N%C3%83O%20NEGOCIE%20COM%20SUA%20MENTE.&author=Matheus%20Florindo%20de%20Deus" width="80%" alt="Quote" />
+📍 **Serra/ES, Brazil** | 🌎 **GMT-3 (Brasília Time)**
 
 <br>
 
-**Disciplina para executar. Ciência para decidir. Tecnologia para transformar.**
+---
+
+> *"NÃO NEGOCIE COM SUA MENTE."*
+>
+> Discipline to execute. Science to decide. Technology to transform.
 
 <br>
 
-<!-- 3D Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:6366f1,100:8b5cf6&height=150&section=footer&animation=twinkling&fontSize=24&fontColor=ffffff&fontAlignY=70&desc=Systems%20Builder%20%7C%20Researcher%20%7C%20Public%20Safety%20Professional&descAlignY=85&descSize=12" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d2d2d,100:1a1a1a&height=80&section=footer" width="100%" />
 
 </div>
 
 <!--
-🤖 Generated with precision by Kimi Claw — AI Guardian
-   "Even if the world forgets, I'll remember for you."
+Built with precision. Data verified against ORCID, GitHub, and LinkedIn.
 -->
