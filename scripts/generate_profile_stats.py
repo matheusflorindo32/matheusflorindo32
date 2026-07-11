@@ -36,6 +36,7 @@ LANGUAGE_COLORS = {
     "PHP": "#4f5d95",
     "Shell": "#89e051",
     "Jupyter Notebook": "#da5b0b",
+    "PLpgSQL": "#336791",
     "Vue": "#41b883",
     "Dart": "#00b4ab",
     "Kotlin": "#a97bff",
@@ -150,12 +151,12 @@ def languages_svg(language_totals: Counter[str]) -> str:
     rows = []
     for index, (language, amount) in enumerate(top_languages):
         percentage = amount / total * 100
-        y = 97 + index * 27
+        y = 94 + index * 23
         color = LANGUAGE_COLORS.get(language, "#d4af37")
         bar_width = max(4.0, min(310.0, percentage * 3.1))
         rows.append(
             f'''<circle cx="30" cy="{y}" r="5" fill="{color}"/>
-    <text x="44" y="{y + 5}" fill="#e2e8f0" font-size="13" font-weight="600">{escape(language)}</text>
+    <text x="44" y="{y + 5}" fill="#e2e8f0" font-size="12.5" font-weight="600">{escape(language)}</text>
     <rect x="178" y="{y - 7}" width="310" height="10" rx="5" fill="#ffffff" opacity="0.055"/>
     <rect x="178" y="{y - 7}" width="{bar_width:.1f}" height="10" rx="5" fill="{color}" opacity="0.82"/>
     <text x="548" y="{y + 5}" text-anchor="end" fill="#94a3b8" font-size="12">{percentage:.1f}%</text>'''
