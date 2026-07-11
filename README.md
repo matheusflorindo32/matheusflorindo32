@@ -1,77 +1,108 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1F2937,100:D4AF37&height=230&section=header&text=MATHEUS%20FLORINDO&fontSize=44&fontColor=F9FAFB&animation=fadeIn&fontAlignY=36&desc=Tecnologia%20%C2%B7%20Ci%C3%AAncia%20%C2%B7%20Dados%20%C2%B7%20Educa%C3%A7%C3%A3o%20%C2%B7%20Seguran%C3%A7a%20P%C3%BAblica&descAlignY=58&descSize=17" alt="Matheus Florindo — Tecnologia, Ciência, Dados, Educação e Segurança Pública" />
+<img width="100%" src="./assets/profile-hero.svg" alt="Matheus Florindo — tecnologia aplicada, ciência e soluções para contextos reais" />
 
-### Fundador de produtos digitais · Desenvolvedor em formação · Pesquisador · Profissional de Segurança Pública
+### Pesquisador aplicado · Desenvolvedor de soluções digitais · Educador · Profissional de Segurança Pública
 
-**Construindo soluções aplicadas na interseção entre tecnologia, inteligência artificial, dados, educação, ciência e desempenho humano.**
+**Conecto experiência de campo, ciência, tecnologia e comunicação para transformar necessidades reais em projetos úteis, documentados e mensuráveis.**
 
 [![Núcleo Tático](https://img.shields.io/badge/NÚCLEO%20TÁTICO-D4AF37?style=for-the-badge&logo=firefox&logoColor=111827)](https://www.nucleotatico.com)
 [![Tropa Científica](https://img.shields.io/badge/TROPA%20CIENTÍFICA-111827?style=for-the-badge&logo=youtube&logoColor=D4AF37)](https://www.tropacientifica.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-florindo-523286209/)
-[![E-mail](https://img.shields.io/badge/FALE%20COMIGO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdideusf@gmail.com)
+[![Contato](https://img.shields.io/badge/FALE%20COMIGO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdideusf@gmail.com)
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-3848-0662)
-[![Currículo Lattes](https://img.shields.io/badge/CURRÍCULO%20LATTES-005CA9?style=flat-square&logo=academia&logoColor=white)](http://lattes.cnpq.br/8324016923278566)
-[![GitHub followers](https://img.shields.io/github/followers/matheusflorindo32?style=flat-square&logo=github&label=Seguidores)](https://github.com/matheusflorindo32?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=matheusflorindo32&style=flat-square&color=D4AF37&label=Visualizações)](https://github.com/matheusflorindo32)
+[![Currículo Lattes](https://img.shields.io/badge/CURRÍCULO%20LATTES-005CA9?style=flat-square)](http://lattes.cnpq.br/8324016923278566)
+[![GitHub](https://img.shields.io/badge/@matheusflorindo32-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/matheusflorindo32)
 
 </div>
 
 ---
 
-## Visão executiva
+## Posicionamento profissional
 
-Sou um profissional multidisciplinar que combina **vivência operacional**, **formação acadêmica**, **pesquisa científica** e **construção de produtos digitais**.
+Atuo na convergência entre **desenvolvimento de software, inteligência artificial, dados, educação, pesquisa aplicada, desempenho humano e segurança pública**.
 
-Minha atuação conecta desenvolvimento de software, IA generativa, automação, análise de dados, educação profissional, comunicação científica, preparação física e segurança pública. O objetivo é transformar problemas reais em soluções **claras, funcionais, mensuráveis e úteis para pessoas e instituições**.
+Minha experiência operacional contribui para identificar problemas concretos. A formação acadêmica e a pesquisa ajudam a definir critérios e avaliar evidências. A tecnologia transforma essas necessidades em aplicações, automações, dashboards, produtos educacionais, documentação técnica e comunicação científica.
 
-> **Meu diferencial:** compreender o problema no campo, analisar com base em evidências e transformar o conhecimento em tecnologia, método, conteúdo ou produto.
+> **Proposta de valor:** compreender o contexto, organizar o problema e construir uma solução que possa ser utilizada, avaliada e aprimorada.
+
+Não apresento essas áreas como especialidades desconectadas. Elas formam um **ecossistema profissional multidisciplinar**, no qual cada frente possui público, finalidade e entregas próprias.
 
 ---
 
-## Ecossistema multidisciplinar
+## Áreas de atuação e entrega
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Tecnologia & Produtos Digitais
-Aplicações web, MVPs, plataformas educacionais, interfaces responsivas, integrações com APIs, documentação técnica e deploy.
+### Software e produtos digitais
+
+- Aplicações web e interfaces responsivas
+- MVPs e protótipos funcionais
+- Integrações com APIs e serviços
+- Arquitetura de componentes e documentação
+- Deploy e evolução de produtos
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Inteligência Artificial & Automação
-Agentes de IA, aplicações com LLMs, automação de fluxos, Voice AI, geração de conteúdo e sistemas de apoio à decisão.
+### Inteligência artificial e automação
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Dados & Business Intelligence
-Dashboards, indicadores, ETL, Excel analítico, Python, visualização de dados e transformação de informação em decisão.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Educação & Ciência
-Tecnologia educacional, materiais didáticos, pesquisa aplicada, revisão científica, comunicação técnica e formação profissional.
+- Aplicações com modelos de linguagem
+- Agentes e fluxos automatizados
+- Voice AI, transcrição e síntese de voz
+- Automação de tarefas e conteúdo
+- Sistemas de apoio à decisão
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎖️ Segurança Pública & APH
-Soluções educacionais para segurança pública, primeiros socorros, APH tático, prevenção, desempenho e preparação do agente.
+### Dados e Business Intelligence
+
+- Dashboards e indicadores
+- Excel analítico e Power BI
+- ETL e tratamento de dados
+- Python aplicado à análise
+- Relatórios orientados à decisão
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Estratégia & Empreendedorismo
-Posicionamento de projetos, estruturação de produtos, experiência do usuário, marketing educacional e criação de ecossistemas digitais.
+### Educação, pesquisa e comunicação
+
+- Tecnologia educacional
+- Materiais técnicos e didáticos
+- Pesquisa e revisão científica
+- Comunicação baseada em evidências
+- Cursos, guias e produtos de conhecimento
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Segurança pública, APH e desempenho
+
+- Educação para profissionais de segurança
+- Primeiros socorros e atendimento pré-hospitalar
+- Preparação física e desempenho ocupacional
+- Prevenção, saúde e prontidão operacional
+- Tradução do conhecimento científico para a prática
+
+</td>
+<td width="50%" valign="top">
+
+### Estratégia e desenvolvimento de projetos
+
+- Estruturação de produtos e serviços
+- Posicionamento e experiência do usuário
+- Organização de ecossistemas digitais
+- Marketing educacional e científico
+- Planejamento de entregas multidisciplinares
 
 </td>
 </tr>
@@ -79,42 +110,56 @@ Posicionamento de projetos, estruturação de produtos, experiência do usuário
 
 ---
 
-## Marcas e frentes de atuação
+## Ecossistema profissional
 
-| Frente | Propósito |
-|---|---|
-| **[Núcleo Tático](https://www.nucleotatico.com)** | Educação, tecnologia e preparação estratégica para concursos e profissionais de segurança pública. |
-| **[Tropa Científica](https://www.tropacientifica.com)** | Inteligência artificial, tecnologia, pesquisa, comunicação científica e formação digital. |
-| **[Primeiros Socorros NT](https://github.com/matheusflorindo32/primeiros-socorros-nt)** | Educação em primeiros socorros, SBV, controle de hemorragias e atendimento pré-hospitalar. |
-| **[Apex Ops](https://github.com/matheusflorindo32/apex-ops)** | Preparação física, desempenho humano e desenvolvimento do atleta tático. |
+| Frente | Papel no ecossistema | Público e aplicação |
+|---|---|---|
+| **[Núcleo Tático](https://www.nucleotatico.com)** | Educação, tecnologia e preparação estratégica | Concursos, formação e desenvolvimento de profissionais de segurança pública |
+| **[Tropa Científica](https://www.tropacientifica.com)** | Tecnologia, IA e comunicação científica | Estudantes, pesquisadores, educadores e profissionais interessados em inovação |
+| **[Primeiros Socorros NT](https://github.com/matheusflorindo32/primeiros-socorros-nt)** | Conhecimento aplicado em primeiros socorros e APH | Educação em saúde, SBV, controle de hemorragias e contextos operacionais |
+| **[Apex Ops](https://github.com/matheusflorindo32/apex-ops)** | Preparação física e desempenho humano | Atleta tático, prontidão ocupacional, treinamento e prevenção |
 
 ---
 
-## Projetos em destaque
+## Portfólio selecionado
 
-| Projeto | Solução desenvolvida | Tecnologias e competências |
+Os projetos abaixo representam diferentes partes da minha atuação. Cada repositório foi escolhido por demonstrar uma entrega concreta, uma competência técnica ou uma aplicação multidisciplinar.
+
+| Projeto | Entrega demonstrada | Competências principais |
 |---|---|---|
-| **[Núcleo TADS Store](https://github.com/matheusflorindo32/nucleo-storefront)** | E-commerce responsivo com autenticação, consumo de API, carrinho persistente, rotas dinâmicas e experiência SPA. | React, Vite, JavaScript, Context API, React Router, API REST |
-| **[ChatGPT Clone DIO](https://github.com/matheusflorindo32/chatgpt-clone-dio)** | Assistente de IA full stack com backend protegido, interface de chat e integração com a API da OpenAI. | React, Node.js, Express, OpenAI API, Vercel, Railway |
-| **[VoiceAI Operacional](https://github.com/matheusflorindo32/voiceai-operacional)** | Pipeline modular que transforma áudio em transcrição, processamento inteligente e voz sintetizada. | Python, Whisper, LLM, OpenAI, ElevenLabs, automação |
-| **[Sales Dashboard Analytics](https://github.com/matheusflorindo32/excel-sales-dashboard-analytics)** | Dashboard executivo para análise de vendas, KPIs, tendências e apoio à decisão. | Excel, tabelas dinâmicas, segmentação, indicadores, BI |
-| **[Primeiros Socorros NT](https://github.com/matheusflorindo32/primeiros-socorros-nt)** | Estrutura educacional voltada a primeiros socorros, SBV, APH tático e atendimento em cenários operacionais. | Educação em saúde, documentação, pesquisa aplicada, GitHub |
-| **[Combatente Científico](https://github.com/matheusflorindo32/podcast-combatente-cientifico)** | Podcast sobre treinamento tático baseado em evidências, produzido com um fluxo de IA generativa. | Roteirização, IA generativa, ElevenLabs, edição e divulgação científica |
+| **[Núcleo TADS Store](https://github.com/matheusflorindo32/nucleo-storefront)** | E-commerce acadêmico responsivo com autenticação, carrinho persistente, rotas dinâmicas e consumo de API | React, Vite, JavaScript, Context API, React Router, API REST |
+| **[ChatGPT Clone DIO](https://github.com/matheusflorindo32/chatgpt-clone-dio)** | Aplicação de chat com frontend, backend protegido e integração com modelo de linguagem | React, Node.js, Express, OpenAI API, Vercel, Railway |
+| **[VoiceAI Operacional](https://github.com/matheusflorindo32/voiceai-operacional)** | Pipeline modular de áudio para transcrição, processamento inteligente e síntese de voz | Python, Whisper, LLM, OpenAI, ElevenLabs, automação |
+| **[Sales Dashboard Analytics](https://github.com/matheusflorindo32/excel-sales-dashboard-analytics)** | Dashboard executivo para acompanhamento de vendas, KPIs e análise de desempenho | Excel, tabelas dinâmicas, segmentação, indicadores, BI |
+| **[Primeiros Socorros NT](https://github.com/matheusflorindo32/primeiros-socorros-nt)** | Repositório educacional sobre primeiros socorros, SBV e atendimento pré-hospitalar | Educação em saúde, documentação, curadoria e pesquisa aplicada |
+| **[Combatente Científico](https://github.com/matheusflorindo32/podcast-combatente-cientifico)** | Produção de podcast sobre treinamento tático baseado em evidências utilizando IA generativa | Pesquisa, roteirização, ElevenLabs, edição e divulgação científica |
 
 <div align="center">
 
-[![Ver todos os repositórios](https://img.shields.io/badge/EXPLORAR%20TODOS%20OS%20PROJETOS-111827?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/matheusflorindo32?tab=repositories)
+[![Explorar todos os projetos](https://img.shields.io/badge/EXPLORAR%20TODOS%20OS%20REPOSITÓRIOS-111827?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/matheusflorindo32?tab=repositories)
 
 </div>
 
 ---
 
-## Formação multidisciplinar
+## Diferenciais de atuação
+
+| Dimensão | Como se traduz na prática |
+|---|---|
+| **Visão de campo** | Compreensão de necessidades operacionais, educacionais e institucionais reais |
+| **Base científica** | Busca por evidências, critérios técnicos, referências e avaliação crítica |
+| **Execução digital** | Transformação de ideias em protótipos, aplicações, automações e produtos |
+| **Comunicação** | Tradução de temas complexos para públicos técnicos, acadêmicos e profissionais |
+| **Integração multidisciplinar** | Conexão entre tecnologia, pessoas, desempenho, educação e tomada de decisão |
+
+---
+
+## Formação e base profissional
 
 - **Análise e Desenvolvimento de Sistemas — IFES**, em formação.
-- **Educação Física**, em formação, com interesse em desempenho, saúde e preparação de agentes de segurança.
+- **Educação Física**, em formação, com interesse em desempenho, saúde e populações ocupacionais.
 - Formação superior em **Gestão Ambiental** e **Geografia**.
-- Participação em pesquisa na área de **Fisiologia Translacional**, com interface entre desempenho humano e populações ocupacionais.
+- Participação em pesquisa na área de **Fisiologia Translacional**, com interface entre desempenho humano e segurança pública.
 - Estudos e especializações em **inteligência artificial, ciência de dados, Business Intelligence, educação, preparação física e atendimento pré-hospitalar**.
 - Profissional da **Polícia Militar do Espírito Santo**, com experiência operacional desde 2013.
 
@@ -122,47 +167,43 @@ Posicionamento de projetos, estruturação de produtos, experiência do usuário
 
 ## Tecnologias e ferramentas
 
+| Categoria | Tecnologias e ferramentas |
+|---|---|
+| **Desenvolvimento web** | `JavaScript` · `TypeScript` · `React` · `Vite` · `Node.js` · `HTML` · `CSS` |
+| **Dados e backend** | `Python` · `PostgreSQL` · `Supabase` · `Excel` · `Power BI` |
+| **IA e automação** | `OpenAI API` · `Whisper` · `LLMs` · `n8n` · `ElevenLabs` |
+| **Produto e deploy** | `Git` · `GitHub` · `Vercel` · `Railway` · `Lovable` |
+| **Pesquisa e conteúdo** | `Obsidian` · `Canva` · documentação técnica · revisão científica |
+
+---
+
+## GitHub em dados
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vite,nodejs,html,css,git,github,vscode,postgres,supabase,vercel" alt="Tecnologias principais" />
+<img width="49%" src="./assets/github-overview.svg" alt="Estatísticas públicas do GitHub de Matheus Florindo" />
+<img width="49%" src="./assets/top-languages.svg" alt="Linguagens presentes no portfólio público de Matheus Florindo" />
 
-<br><br>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=flat-square&logo=heart&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+<sub>Os cards são arquivos do próprio repositório e são recalculados automaticamente pela API oficial do GitHub.</sub>
 
 </div>
 
 ---
 
-## GitHub em números
+## Gostou do meu trabalho? Talvez eu possa ajudar.
 
-<div align="center">
+Empresas, instituições, pesquisadores, educadores e equipes podem contar comigo para organizar problemas e desenvolver soluções em diferentes estágios — da definição da ideia ao protótipo, documentação e apresentação.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusflorindo32&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=8B949E&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusflorindo32&layout=compact&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=8B949E&locale=pt-br" alt="Linguagens mais utilizadas" />
+### Possibilidades de colaboração
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusflorindo32&bg_color=00000000&color=8B949E&line=D4AF37&point=F9FAFB&area=true&hide_border=true" alt="Gráfico de contribuições" />
+- MVPs, aplicações web e protótipos digitais;
+- automações e fluxos com inteligência artificial;
+- dashboards, indicadores e análise de dados;
+- produtos educacionais, cursos, guias e materiais técnicos;
+- comunicação científica e transformação de pesquisa em conteúdo;
+- soluções para segurança pública, primeiros socorros, desempenho e formação profissional.
 
-<sub>As linguagens exibidas refletem a composição dos repositórios públicos e não representam, isoladamente, nível de domínio.</sub>
-
-</div>
-
----
-
-## Gostou do que viu? Eu posso ajudar.
-
-Sua empresa, instituição, equipe ou projeto precisa transformar uma ideia em uma solução prática?
-
-Posso colaborar na criação de **MVPs e aplicações web**, automações com IA, dashboards e análises de dados, produtos educacionais, materiais técnicos, comunicação científica e soluções voltadas à formação e ao desempenho de profissionais.
-
-**Vamos conversar sobre o problema, organizar a estratégia e construir uma entrega que gere valor real.**
+**Uma boa parceria começa com um problema bem compreendido. Vamos conversar sobre o que precisa ser construído, melhorado ou comunicado.**
 
 <div align="center">
 
@@ -174,7 +215,5 @@ Posso colaborar na criação de **MVPs e aplicações web**, automações com IA
 
 > **“Não negocie com sua mente.”**  
 > Disciplina para executar. Ciência para decidir. Tecnologia para transformar.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,55:1F2937,100:111827&height=120&section=footer" alt="Rodapé" />
 
 </div>
