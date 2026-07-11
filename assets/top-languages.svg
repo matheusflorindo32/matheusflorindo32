@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-labelledby="title desc">
+  <title id="title">Tecnologias presentes no portfólio</title>
+  <desc id="desc">Principais linguagens e tecnologias identificadas nos projetos públicos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1525"/>
+      <stop offset="1" stop-color="#172235"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="578" height="228" rx="20" fill="url(#bg)" stroke="#334155"/>
+  <rect x="24" y="24" width="5" height="34" rx="2.5" fill="#d4af37"/>
+  <text x="42" y="48" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Tecnologias em evidência</text>
+  <text x="42" y="70" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Leitura inicial do portfólio público</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">
+    <rect x="24" y="96" width="164" height="42" rx="12" fill="#f7df1e" opacity="0.14" stroke="#f7df1e"/>
+    <text x="106" y="122" text-anchor="middle" fill="#f8fafc">JavaScript</text>
+
+    <rect x="208" y="96" width="164" height="42" rx="12" fill="#3178c6" opacity="0.16" stroke="#3178c6"/>
+    <text x="290" y="122" text-anchor="middle" fill="#f8fafc">TypeScript</text>
+
+    <rect x="392" y="96" width="164" height="42" rx="12" fill="#3776ab" opacity="0.18" stroke="#3776ab"/>
+    <text x="474" y="122" text-anchor="middle" fill="#f8fafc">Python</text>
+
+    <rect x="24" y="154" width="164" height="42" rx="12" fill="#e34f26" opacity="0.15" stroke="#e34f26"/>
+    <text x="106" y="180" text-anchor="middle" fill="#f8fafc">HTML</text>
+
+    <rect x="208" y="154" width="164" height="42" rx="12" fill="#1572b6" opacity="0.17" stroke="#1572b6"/>
+    <text x="290" y="180" text-anchor="middle" fill="#f8fafc">CSS</text>
+
+    <rect x="392" y="154" width="164" height="42" rx="12" fill="#61dafb" opacity="0.10" stroke="#61dafb"/>
+    <text x="474" y="180" text-anchor="middle" fill="#f8fafc">React / Node.js</text>
+  </g>
+
+  <text x="24" y="216" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">O card será recalculado automaticamente a partir dos repositórios públicos.</text>
+</svg>
