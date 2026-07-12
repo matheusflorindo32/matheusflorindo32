@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Experiência visual, 3D, motion e design systems</title>
+  <desc id="desc">Três grupos de competências: 3D e WebGL, Motion e Interação, UI e Experiência.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="0.5" stop-color="#eef2ff"/>
+      <stop offset="1" stop-color="#ecfeff"/>
+    </linearGradient>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#334155"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4338ca"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0891b2"/><stop offset="1" stop-color="#0f766e"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.15"/></filter>
+  </defs>
+  <rect width="1200" height="430" rx="34" fill="url(#bg)"/>
+  <path d="M0 355C215 288 382 420 594 346C818 268 988 390 1200 310V430H0Z" fill="#fff" opacity="0.58"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="56" y="58" font-size="15" font-weight="800" fill="#475569" letter-spacing="3">VISUAL ENGINEERING</text>
+    <text x="56" y="96" font-size="30" font-weight="900" fill="#0f172a">3D, motion e experiências digitais com identidade</text>
+    <text x="56" y="126" font-size="15" fill="#64748b">Tecnologia visual aplicada a produtos, portfólios e interfaces responsivas.</text>
+  </g>
+
+  <g filter="url(#shadow)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(56 164)">
+      <rect width="338" height="206" rx="26" fill="#fff" stroke="#cbd5e1"/>
+      <rect width="338" height="62" rx="26" fill="url(#g1)"/>
+      <rect y="38" width="338" height="24" fill="url(#g1)"/>
+      <text x="28" y="39" font-size="20" font-weight="900" fill="#fff">3D &amp; WEBGL</text>
+      <circle cx="294" cy="31" r="17" fill="#ffffff" opacity="0.12"/>
+      <path d="M286 31l8-8 8 8-8 8z" fill="none" stroke="#fff" stroke-width="2.5"/>
+      <g font-size="15" font-weight="700" fill="#0f172a">
+        <text x="28" y="100">Three.js</text><text x="184" y="100">React Three Fiber</text>
+        <text x="28" y="138">Canvas</text><text x="184" y="138">SVG Animado</text>
+        <text x="28" y="176">WebGL</text><text x="184" y="176">Shaders &amp; Scene Design</text>
+      </g>
+      <g fill="#dbeafe"><rect x="20" y="79" width="132" height="29" rx="14"/><rect x="176" y="79" width="142" height="29" rx="14"/><rect x="20" y="117" width="132" height="29" rx="14"/><rect x="176" y="117" width="142" height="29" rx="14"/><rect x="20" y="155" width="132" height="29" rx="14"/><rect x="176" y="155" width="142" height="29" rx="14"/></g>
+      <g font-size="15" font-weight="700" fill="#0f172a">
+        <text x="28" y="100">Three.js</text><text x="184" y="100">React Three Fiber</text>
+        <text x="28" y="138">Canvas</text><text x="184" y="138">SVG Animado</text>
+        <text x="28" y="176">WebGL</text><text x="184" y="176">Shaders &amp; Cenas</text>
+      </g>
+    </g>
+
+    <g transform="translate(431 164)">
+      <rect width="338" height="206" rx="26" fill="#fff" stroke="#ddd6fe"/>
+      <rect width="338" height="62" rx="26" fill="url(#g2)"/>
+      <rect y="38" width="338" height="24" fill="url(#g2)"/>
+      <text x="28" y="39" font-size="20" font-weight="900" fill="#fff">MOTION &amp; INTERAÇÃO</text>
+      <circle cx="294" cy="31" r="17" fill="#fff" opacity="0.12"/>
+      <path d="M284 36c8-15 14-15 22 0" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+      <g fill="#ede9fe"><rect x="20" y="79" width="132" height="29" rx="14"/><rect x="176" y="79" width="142" height="29" rx="14"/><rect x="20" y="117" width="298" height="29" rx="14"/><rect x="20" y="155" width="298" height="29" rx="14"/></g>
+      <g font-size="15" font-weight="700" fill="#312e81">
+        <text x="28" y="100">Framer Motion</text><text x="184" y="100">GSAP</text>
+        <text x="28" y="138">Scroll-driven Interaction</text>
+        <text x="28" y="176">Microinterações e narrativa visual</text>
+      </g>
+    </g>
+
+    <g transform="translate(806 164)">
+      <rect width="338" height="206" rx="26" fill="#fff" stroke="#a5f3fc"/>
+      <rect width="338" height="62" rx="26" fill="url(#g3)"/>
+      <rect y="38" width="338" height="24" fill="url(#g3)"/>
+      <text x="28" y="39" font-size="20" font-weight="900" fill="#fff">UI &amp; EXPERIENCE</text>
+      <circle cx="294" cy="31" r="17" fill="#fff" opacity="0.12"/>
+      <path d="M285 24h18v14h-18zM290 29h8" fill="none" stroke="#fff" stroke-width="2.2"/>
+      <g fill="#cffafe"><rect x="20" y="79" width="132" height="29" rx="14"/><rect x="176" y="79" width="142" height="29" rx="14"/><rect x="20" y="117" width="132" height="29" rx="14"/><rect x="176" y="117" width="142" height="29" rx="14"/><rect x="20" y="155" width="298" height="29" rx="14"/></g>
+      <g font-size="15" font-weight="700" fill="#134e4a">
+        <text x="28" y="100">Design Systems</text><text x="184" y="100">Shadcn/UI</text>
+        <text x="28" y="138">Responsive UX</text><text x="184" y="138">Glassmorphism</text>
+        <text x="28" y="176">Arquitetura da informação e acessibilidade</text>
+      </g>
+    </g>
+  </g>
+</svg>
