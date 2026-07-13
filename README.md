@@ -99,6 +99,7 @@ Minha atuação combina:
 <div align="center">
 
 [![Todos os repositórios](https://img.shields.io/badge/EXPLORAR%20REPOSITÓRIOS-111827?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/matheusflorindo32?tab=repositories)
+[![Mapa do Portfólio](https://img.shields.io/badge/VER%20MAPA%20COMPLETO-D4AF37?style=for-the-badge&logo=readthedocs&logoColor=111827)](./PORTFOLIO_MAP.md)
 
 </div>
 
