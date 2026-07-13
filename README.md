@@ -74,8 +74,8 @@ Minha atuação combina:
 
 | PRODUTO | ENTREGA PRINCIPAL | ACESSO |
 |:---|:---|:---:|
-| **Via Pneus BR** | E-commerce automotivo com catálogo, busca, carrinho, checkout, conta do cliente, pedidos e painel administrativo | **[Visitar](https://viapneusbr.com)** |
-| **LongeVida 50+ Studio** | Produto digital para gestão de studio 50+, com leads, alunos, agenda, avaliações, financeiro, conversas e administração | **[Visitar](https://longevida50studio.com.br/)** |
+| **Via Pneus BR** | E-commerce automotivo com catálogo, busca, carrinho, checkout, conta do cliente, pedidos e painel administrativo | **[Case](./case-studies/VIA_PNEUS_BR.md) · [Site](https://viapneusbr.com)** |
+| **LongeVida 50+ Studio** | Produto digital para gestão de studio 50+, com leads, alunos, agenda, avaliações, financeiro, conversas e administração | **[Case](./case-studies/LONGEVIDA_50_STUDIO.md) · [Site](https://longevida50studio.com.br/)** |
 
 <div align="center">
 
