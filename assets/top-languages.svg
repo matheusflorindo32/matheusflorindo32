@@ -27,11 +27,11 @@
   <g font-family="Inter,Segoe UI,Arial,sans-serif"><circle cx="30" cy="99" r="5" fill="#3178c6"/>
     <text x="44" y="104" fill="#1e293b" font-size="12.2" font-weight="750">TypeScript</text>
     <rect x="176" y="92" width="290" height="10" rx="5" fill="#dfe6ef"/>
-    <rect x="176" y="92" width="129.7" height="10" rx="5" fill="#3178c6" opacity="0.9"/>
-    <text x="548" y="104" text-anchor="end" fill="#475569" font-size="11.5" font-weight="700">44.7%</text><circle cx="30" cy="122" r="5" fill="#4f5d95"/>
+    <rect x="176" y="92" width="129.5" height="10" rx="5" fill="#3178c6" opacity="0.9"/>
+    <text x="548" y="104" text-anchor="end" fill="#475569" font-size="11.5" font-weight="700">44.6%</text><circle cx="30" cy="122" r="5" fill="#4f5d95"/>
     <text x="44" y="127" fill="#1e293b" font-size="12.2" font-weight="750">PHP</text>
     <rect x="176" y="115" width="290" height="10" rx="5" fill="#dfe6ef"/>
-    <rect x="176" y="115" width="68.7" height="10" rx="5" fill="#4f5d95" opacity="0.9"/>
+    <rect x="176" y="115" width="68.6" height="10" rx="5" fill="#4f5d95" opacity="0.9"/>
     <text x="548" y="127" text-anchor="end" fill="#475569" font-size="11.5" font-weight="700">23.7%</text><circle cx="30" cy="145" r="5" fill="#a97919"/>
     <text x="44" y="150" fill="#1e293b" font-size="12.2" font-weight="750">Blade</text>
     <rect x="176" y="138" width="290" height="10" rx="5" fill="#dfe6ef"/>
@@ -45,5 +45,5 @@
     <rect x="176" y="184" width="290" height="10" rx="5" fill="#dfe6ef"/>
     <rect x="176" y="184" width="13.3" height="10" rx="5" fill="#f0c419" opacity="0.9"/>
     <text x="548" y="196" text-anchor="end" fill="#475569" font-size="11.5" font-weight="700">4.6%</text></g>
-  <text x="24" y="216" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11.5">Atualizado em 16/08/2026 • não representa, isoladamente, nível de domínio</text>
+  <text x="24" y="216" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11.5">Atualizado em 17/08/2026 • não representa, isoladamente, nível de domínio</text>
 </svg>
