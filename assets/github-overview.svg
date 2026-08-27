@@ -27,12 +27,12 @@
   <g font-family="Inter,Segoe UI,Arial,sans-serif"><g filter="url(#shadow)">
       <rect x="30" y="103" width="119" height="84" rx="15" fill="#94a3b8" opacity="0.16"/>
       <rect x="25" y="96" width="119" height="84" rx="15" fill="#ffffff" stroke="#d7dee9"/>
-      <text x="84.5" y="135" text-anchor="middle" fill="#0f172a" font-size="29" font-weight="850">36</text>
+      <text x="84.5" y="135" text-anchor="middle" fill="#0f172a" font-size="29" font-weight="850">37</text>
       <text x="84.5" y="160" text-anchor="middle" fill="#64748b" font-size="9.8" font-weight="800" letter-spacing="0.55">REPOSITÓRIOS</text>
     </g><g filter="url(#shadow)">
       <rect x="164" y="103" width="119" height="84" rx="15" fill="#94a3b8" opacity="0.16"/>
       <rect x="159" y="96" width="119" height="84" rx="15" fill="#ffffff" stroke="#d7dee9"/>
-      <text x="218.5" y="135" text-anchor="middle" fill="#0f172a" font-size="29" font-weight="850">32</text>
+      <text x="218.5" y="135" text-anchor="middle" fill="#0f172a" font-size="29" font-weight="850">33</text>
       <text x="218.5" y="160" text-anchor="middle" fill="#64748b" font-size="9.8" font-weight="800" letter-spacing="0.55">PROJETOS ORIGINAIS</text>
     </g><g filter="url(#shadow)">
       <rect x="298" y="103" width="119" height="84" rx="15" fill="#94a3b8" opacity="0.16"/>
@@ -42,11 +42,11 @@
     </g><g filter="url(#shadow)">
       <rect x="432" y="103" width="119" height="84" rx="15" fill="#94a3b8" opacity="0.16"/>
       <rect x="427" y="96" width="119" height="84" rx="15" fill="#ffffff" stroke="#d7dee9"/>
-      <text x="486.5" y="135" text-anchor="middle" fill="#0f172a" font-size="29" font-weight="850">1</text>
+      <text x="486.5" y="135" text-anchor="middle" fill="#0f172a" font-size="29" font-weight="850">2</text>
       <text x="486.5" y="160" text-anchor="middle" fill="#64748b" font-size="9.8" font-weight="800" letter-spacing="0.55">SEGUIDORES</text>
     </g></g>
   <circle cx="29" cy="207" r="4.5" fill="#22c55e">
     <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
   </circle>
-  <text x="42" y="212" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11.5">32 projetos ativos • atualizado em 26/08/2026</text>
+  <text x="42" y="212" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11.5">33 projetos ativos • atualizado em 27/08/2026</text>
 </svg>
