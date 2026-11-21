@@ -10,6 +10,7 @@ from __future__ import annotations
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.request
 from collections import Counter
@@ -53,8 +54,21 @@ def api_get(path: str) -> Any:
         headers["Authorization"] = f"Bearer {TOKEN}"
 
     request = urllib.request.Request(f"{API_ROOT}{path}", headers=headers)
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return json.loads(response.read().decode("utf-8"))
+    retryable_statuses = {408, 429, 500, 502, 503, 504}
+    # Bounded retries for transient HTTP and connection errors; do not retry
+    # permanent client errors (401/403/404), and never return stale data.
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                return json.loads(response.read().decode("utf-8"))
+        except urllib.error.HTTPError as error:
+            if error.code not in retryable_statuses or attempt == 2:
+                raise
+        except (urllib.error.URLError, OSError):
+            if attempt == 2:
+                raise
+        time.sleep(2 ** attempt)
+    raise RuntimeError("GitHub API attempts exhausted")
 
 
 def fetch_repositories() -> list[dict[str, Any]]:
@@ -83,7 +97,7 @@ def collect_languages(repositories: list[dict[str, Any]]) -> Counter[str]:
             continue
         try:
             languages = api_get(f"/repos/{full_name}/languages")
-        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError):
+        except (urllib.error.URLError, OSError):
             continue
         if isinstance(languages, dict):
             for language, amount in languages.items():
@@ -200,7 +214,7 @@ def main() -> int:
         profile = api_get(f"/users/{USERNAME}")
         repositories = fetch_repositories()
         languages = collect_languages(repositories)
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, RuntimeError) as error:
+    except (urllib.error.URLError, OSError, RuntimeError, json.JSONDecodeError) as error:
         print(f"Profile statistics were not updated: {error}", file=sys.stderr)
         return 1
 
